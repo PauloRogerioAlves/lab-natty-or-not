@@ -1,3 +1,4 @@
+meu portifólio desafio de código dio  
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
